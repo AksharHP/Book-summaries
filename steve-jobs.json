@@ -1,0 +1,140 @@
+{
+  "title": "Steve Jobs Biography",
+  "subject": "Steve Jobs",
+  "lifespan": {
+    "birth": 1955,
+    "death": 2011
+  },
+  "summary": {
+    "overview": "Steve Jobs (1955–2011) was a visionary entrepreneur and design perfectionist who revolutionized the personal computing, animated movie, music, phone, and tablet publishing industries.",
+    "earlyLife": {
+      "birthplace": "San Francisco",
+      "family": "Born in San Francisco and adopted by Paul and Clara Jobs",
+      "upbringing": "Grew up in Silicon Valley, developing an early interest in electronics",
+      "education": "Dropped out of Reed College and traveled through India"
+    },
+    "careerTimeline": [
+      {
+        "year": 1976,
+        "event": "Co-founded Apple Computer with Steve Wozniak in his parents' garage"
+      },
+      {
+        "year": 1984,
+        "event": "Launched the Macintosh, introducing the graphical user interface (GUI) to the masses"
+      },
+      {
+        "year": 1985,
+        "event": "Ousted from Apple due to internal power struggles"
+      },
+      {
+        "year": 1995,
+        "event": "Pixar released Toy Story, making Jobs a billionaire"
+      },
+      {
+        "year": 1996,
+        "event": "Apple acquired NeXT, bringing Jobs back to the company"
+      },
+      {
+        "year": 1998,
+        "event": "Launched the iMac"
+      },
+      {
+        "year": 2001,
+        "event": "Launched the iPod"
+      },
+      {
+        "year": 2003,
+        "event": "Diagnosed with pancreatic cancer"
+      },
+      {
+        "year": 2007,
+        "event": "Launched the iPhone"
+      },
+      {
+        "year": 2010,
+        "event": "Launched the iPad"
+      },
+      {
+        "year": 2011,
+        "event": "Resigned as CEO in August and passed away weeks later"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Apple Computer",
+        "founded": 1976,
+        "role": "Co-founder",
+        "coFounder": "Steve Wozniak",
+        "firstSuccess": "Apple II ignited the personal computer revolution",
+        "leftCompany": 1985,
+        "returnedToCompany": 1996,
+        "achievements": "One of the greatest corporate turnarounds in history"
+      },
+      {
+        "name": "NeXT",
+        "founded": "During wilderness years (post-1985)",
+        "type": "High-end computer company",
+        "outcome": "Acquired by Apple in 1996 for its operating system"
+      },
+      {
+        "name": "Pixar Animation Studios",
+        "acquired": "During wilderness years (post-1985)",
+        "formerName": "The Graphics Group",
+        "achievement": "Redefined animation with Toy Story (1995)"
+      }
+    ],
+    "iconicProducts": [
+      {
+        "name": "Apple II",
+        "impact": "Ignited the personal computer revolution"
+      },
+      {
+        "name": "Macintosh",
+        "year": 1984,
+        "impact": "Introduced the graphical user interface (GUI) to the masses"
+      },
+      {
+        "name": "iMac",
+        "year": 1998,
+        "impact": "Part of Apple's corporate turnaround"
+      },
+      {
+        "name": "iPod",
+        "year": 2001,
+        "impact": "Revolutionized the music industry"
+      },
+      {
+        "name": "iPhone",
+        "year": 2007,
+        "impact": "Revolutionized the phone industry"
+      },
+      {
+        "name": "iPad",
+        "year": 2010,
+        "impact": "Revolutionized the tablet publishing industry"
+      },
+      {
+        "name": "Apple Store",
+        "impact": "Fundamentally changed how consumers bought technology"
+      },
+      {
+        "name": "iTunes",
+        "impact": "Fundamentally changed how consumers bought media"
+      }
+    ],
+    "leadershipStyle": {
+      "characteristic": "Reality distortion field",
+      "description": "A mix of charisma, marketing genius, and demanding leadership style",
+      "focus": "Slashing projects and focusing on industrial design",
+      "philosophy": "Obsession with merging the humanities with technology to create products that were intuitive, beautiful, and functional"
+    },
+    "legacy": "His legacy remains defined by his obsession with merging the humanities with technology to create products that were intuitive, beautiful, and functional.",
+    "industriesRevolutionized": [
+      "Personal computing",
+      "Animated movies",
+      "Music",
+      "Phones",
+      "Tablet publishing"
+    ]
+  }
+}
